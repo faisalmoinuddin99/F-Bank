@@ -1,3 +1,5 @@
 From         To            Amout
 1001        1002           500
 1001        2001           10
+faisal      Mohan          5
+Mohan      Mayank          3
