@@ -3,3 +3,4 @@ From         To            Amout
 1001        2001           10
 faisal      Mohan          5
 Mohan      Mayank          3
+Mayank     Anjali          1
